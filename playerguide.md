@@ -171,7 +171,6 @@ Appendix A: Backgrounds
 | Sailor  | Athletics (STR), perception (WIS) | None | Navigator's tools, vehicles (water)
 | Soldier  | Athletics (STR), intimidation (CHA) | None | Gaming set x1, vehicles (land)
 | Spy  | Deception (CHA), stealth (DEX) | None | Gaming set x1, thieves' tools
-| Urban Bounty Hunter | SCAG | Choose 2: deception (CHA), insight (WIS), persuasion (CHA), stealth (DEX) | None | Choose 2: gaming set x1, musical instrument x1, thieves' tools
 | Urchin  | Sleight of hand (DEX), stealth (DEX) | None | Disguise kit, thieves' tools
 </div>
 
@@ -195,8 +194,10 @@ Appendix A: Backgrounds
 | Knight of the Order  | Persuasion (CHA), and choose 1: special (See page) | Any x1 | Choose 1: gaming set x1, musical instrument x1
 | Mercenary Veteran  | Athletics (STR), persuasion (CHA) | None | Gaming set x1, vehicles (land)
 | Uthgardt Tribe Member  | Athletics (STR), survival (WIS) | Any x1 | Choose 1: artisan's tools x1, musical instrument x1
+| Urban Bounty Hunter | Choose 2: deception (CHA), insight (WIS), persuasion (CHA), stealth (DEX) | None | Choose 2: gaming set x1, musical instrument x1, thieves' tools
 | Waterdhavian Noble  | History (INT), persuasion (CHA) | Any x1 | Choose 1: gaming set x1, musical instrument x1
 
+</div>
 \page
 
 
