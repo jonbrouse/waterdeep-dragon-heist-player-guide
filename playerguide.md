@@ -174,6 +174,14 @@ Appendix A: Backgrounds
 | Knight | PHB | History (INT), persuasion (CHA) | Any x1 | Gaming set x1
 | Knight of the Order | SCAG | Persuasion (CHA), and choose 1: special (See page) | Any x1 | Choose 1: gaming set x1, musical instrument x1
 | Mercenary Veteran | SCAG | Athletics (STR), persuasion (CHA) | None | Gaming set x1, vehicles (land)
+</div>
+
+\page
+
+<div class='wide'>
+## Additional Backgrounds (continued)
+| Name    | Source | Skills | Languages | Tools |
+|---| ---    | ---      | --- | --- |
 | Noble | PHB | History (INT), persuasion (CHA) | Any x1 | Gaming set x1 Outlander | PHB | Athletics (STR), survival (WIS) | Any x1 | Musical instrument x1
 | Pirate | PHB | Athletics (STR), perception (WIS) | None | Navigator's tools, vehicles (water)
 | Sage | PHB | Arcana (INT), history (INT) | Any x2 | None
