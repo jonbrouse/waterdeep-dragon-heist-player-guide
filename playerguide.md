@@ -189,6 +189,8 @@ Appendix A: Backgrounds
 | Urchin  | Sleight of hand (DEX), stealth (DEX) | None | Disguise kit, thieves' tools
 </div>
 
+<div class='footnote'> APPENDIX A | BACKGROUNDS </div>
+
 \page
 
 <div class='classTable wide'>
@@ -216,3 +218,5 @@ Appendix A: Backgrounds
 | Waterdhavian Noble  | History (INT), persuasion (CHA) | Any x1 | Choose 1: gaming set x1, musical instrument x1
 
 </div>
+
+<div class='footnote'> APPENDIX A | BACKGROUNDS </div>
