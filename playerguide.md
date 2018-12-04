@@ -34,9 +34,13 @@ A background will help guide how you pick the following:
 
 _See Appendix A for a list of backgrounds._
 
+<br><br><br><br><br><br><br><br>
+
 #### Character and Gameplay Considerations
 
-**A word of advice!** As you create your character concept, consider that this campaign takes place in a densely-populated urban metropolis, where openly wielding weapons or magic on the streets can quickly land you in a jail cell. Combat isn't always the solution, and not all combat has to be lethal. Adventurers should take the fights off the street, corner opponents out of sight of the guard or avoid conflict via stealth or wit. Consider what characteristics make a good heist team:
+**A word of advice!** As you create your character concept, consider that this campaign takes place in a densely-populated urban metropolis, where openly wielding weapons or magic on the streets can quickly land you in a jail cell. 
+
+Combat isn't always the solution, and not all combat has to be lethal. Adventurers should take the fights off the street, corner opponents out of sight of the guard or avoid conflict via stealth or wit. Consider what characteristics make a good heist team:
 
 - A get away driver
 
