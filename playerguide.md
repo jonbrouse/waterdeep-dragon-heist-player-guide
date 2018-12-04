@@ -189,8 +189,6 @@ Appendix A: Backgrounds
 | Urchin  | Sleight of hand (DEX), stealth (DEX) | None | Disguise kit, thieves' tools
 </div>
 
-<div class='footnote'> APPENDIX A | BACKGROUNDS </div>
-
 \page
 
 <div class='classTable wide'>
@@ -219,4 +217,3 @@ Appendix A: Backgrounds
 
 </div>
 
-<div class='footnote'> APPENDIX A | BACKGROUNDS </div>
