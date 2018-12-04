@@ -198,6 +198,7 @@ Appendix A: Backgrounds
 | Waterdhavian Noble  | History (INT), persuasion (CHA) | Any x1 | Choose 1: gaming set x1, musical instrument x1
 
 </div>
+
 \page
 
 
