@@ -215,6 +215,8 @@ Appendix A: Backgrounds
 
 </div>
 
+[Sword Coast Adventurer's Guide PDF](https://drive.google.com/open?id=1c7jF0L6l0ZP80qjnAECs_yhLYL_01sYC)
+
 \page
 
 
