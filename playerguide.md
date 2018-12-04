@@ -144,15 +144,16 @@ An affiliation of merchants and mercenaries known for their cutthroat tactics. R
 
 \page
 
-\onecolumn
 Appendix A: Backgrounds
 =======================
 
-
-**Name** & **Source** & **Skills** & **Languages** & **Tools**\
-
+<div class='wide'>
+## Additional Backgrounds
+  
+<br>
+  
 | Name    | Source | Skills | Languages | Tools |
-| ---     | ---    | ---      | --- | --- |
+|---| ---    | ---      | --- | --- |
 | Acolyte | PHB    | Insight (WIS), religion (INT) | Any x2 | None |
 | Charlatan | PHB | Deception (CHA), sleight of hand (DEX) | None | Disguise kit, forgery kit
 | City Watch | SCAG | Athletics (STR), insight (WIS) | Any x2 | None
@@ -170,23 +171,20 @@ Appendix A: Backgrounds
 | Hermit | PHB | Medicine (WIS), religion (INT) | Any x1 | Herbalism kit
 | Inheritor | SCAG | Survival (WIS), and choose 1: arcana (INT), history (INT), religion (INT) | None | Gaming set x1, musical instrument x1
 | Investigator | SCAG | Insight (WIS), investigation (INT) | Any x2 | None
-
-\pagebreak
-\header{Backgrounds}
-**Name** & **Source** & **Skills** & **Languages** & **Tools**\
-Knight | PHB | History (INT), persuasion (CHA) | Any x1 | Gaming set x1
-Knight of the Order | SCAG | Persuasion (CHA), and choose 1: special (See page) | Any x1 | Choose 1: gaming set x1, musical instrument x1
-Mercenary Veteran | SCAG | Athletics (STR), persuasion (CHA) | None | Gaming set x1, vehicles (land)
-Noble | PHB | History (INT), persuasion (CHA) | Any x1 | Gaming set x1 Outlander | PHB | Athletics (STR), survival (WIS) | Any x1 | Musical instrument x1
-Pirate | PHB | Athletics (STR), perception (WIS) | None | Navigator's tools, vehicles (water)
-Sage | PHB | Arcana (INT), history (INT) | Any x2 | None
-Sailor | PHB | Athletics (STR), perception (WIS) | None | Navigator's tools, vehicles (water)
-Soldier | PHB | Athletics (STR), intimidation (CHA) | None | Gaming set x1, vehicles (land)
-Spy | PHB | Deception (CHA), stealth (DEX) | None | Gaming set x1, thieves' tools
-Urban Bounty Hunter | SCAG | Choose 2: deception (CHA), insight (WIS), persuasion (CHA), stealth (DEX) | None | Choose 2: gaming set x1, musical instrument x1, thieves' tools
-Urchin | PHB | Sleight of hand (DEX), stealth (DEX) | None | Disguise kit, thieves' tools
-Uthgardt Tribe Member | SCAG | Athletics (STR), survival (WIS) | Any x1 | Choose 1: artisan's tools x1, musical instrument x1
-Waterdhavian Noble | SCAG | History (INT), persuasion (CHA) | Any x1 | Choose 1: gaming set x1, musical instrument x1
+| Knight | PHB | History (INT), persuasion (CHA) | Any x1 | Gaming set x1
+| Knight of the Order | SCAG | Persuasion (CHA), and choose 1: special (See page) | Any x1 | Choose 1: gaming set x1, musical instrument x1
+| Mercenary Veteran | SCAG | Athletics (STR), persuasion (CHA) | None | Gaming set x1, vehicles (land)
+| Noble | PHB | History (INT), persuasion (CHA) | Any x1 | Gaming set x1 Outlander | PHB | Athletics (STR), survival (WIS) | Any x1 | Musical instrument x1
+| Pirate | PHB | Athletics (STR), perception (WIS) | None | Navigator's tools, vehicles (water)
+| Sage | PHB | Arcana (INT), history (INT) | Any x2 | None
+| Sailor | PHB | Athletics (STR), perception (WIS) | None | Navigator's tools, vehicles (water)
+| Soldier | PHB | Athletics (STR), intimidation (CHA) | None | Gaming set x1, vehicles (land)
+| Spy | PHB | Deception (CHA), stealth (DEX) | None | Gaming set x1, thieves' tools
+| Urban Bounty Hunter | SCAG | Choose 2: deception (CHA), insight (WIS), persuasion (CHA), stealth (DEX) | None | Choose 2: gaming set x1, musical instrument x1, thieves' tools
+| Urchin | PHB | Sleight of hand (DEX), stealth (DEX) | None | Disguise kit, thieves' tools
+| Uthgardt Tribe Member | SCAG | Athletics (STR), survival (WIS) | Any x1 | Choose 1: artisan's tools x1, musical instrument x1
+| Waterdhavian Noble | SCAG | History (INT), persuasion (CHA) | Any x1 | Choose 1: gaming set x1, musical instrument x1
+</div>
 
 PHB = Player's Handbook, SCAG = Sword Coast Adventurer's Guide
 
