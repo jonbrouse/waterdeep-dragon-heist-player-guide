@@ -55,11 +55,11 @@ _See Appendix A for a list of backgrounds._
 
 The environment is more civilized and advanced than your normal campaign. Adventurers should take the fights off the street, corner opponents out of sight of the guard or avoid conflict via stealth or wit. Consider what characteristics make a good heist team:
 
-- Get away driver
+- A get away driver
 
 - A “face” (maybe a human swashbuckler)
 
-- Disguise and cloak
+- Disguise and/or cloak
 
 - A lookout
 
