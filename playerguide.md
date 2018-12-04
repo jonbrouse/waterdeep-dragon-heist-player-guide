@@ -196,6 +196,8 @@ Appendix A: Backgrounds
 ## Sword Coast Adventurer's Guide
 
 <br>
+[Sword Coast Adventurer's Guide PDF](https://drive.google.com/open?id=1c7jF0L6l0ZP80qjnAECs_yhLYL_01sYC)
+<br>
   
 | Name  |  Skills | Languages | Tools |
 |---    | ---      | --- | --- |
@@ -214,11 +216,3 @@ Appendix A: Backgrounds
 | Waterdhavian Noble  | History (INT), persuasion (CHA) | Any x1 | Choose 1: gaming set x1, musical instrument x1
 
 </div>
-
-[Sword Coast Adventurer's Guide PDF](https://drive.google.com/open?id=1c7jF0L6l0ZP80qjnAECs_yhLYL_01sYC)
-
-\page
-
-
-<div class='pageNumber'></div>
-<div class='footnote'>Appendix A: Backgrounds</div>
