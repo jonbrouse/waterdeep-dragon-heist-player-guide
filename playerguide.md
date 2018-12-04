@@ -17,23 +17,6 @@ Try to come up with two or three "defining moments" from your character's past. 
 
 This campaign takes places entirely in the city of Waterdeep so it's important to establish what brings you to the city, why you would stay, and importantly, why you would join up with a group of strangers. See the next page for a quick guide to the city if you need a better idea of the city itself.  
 
-**A word of advice!** As you create your character concept, consider that this campaign takes place in a densely-populated urban metropolis, where openly wielding weapons or magic on the streets can quickly land you in a jail cell. Combat isn't always the solution, and not all combat has to be lethal.
-
-### Additional Resources
-
-- [Random character generator for inspiration](https://trwolfe13.github.io/tiyl/)
-
-- [Which class should you play? (Flowchart)](https://preview.tinyurl.com/yd4wzzgq)
-
-- [5 Steps to Writing a Killer RPG Character Backstory (Geek & Sundry)](https://preview.tinyurl.com/ybkyqkzr)
-    
-- [20 questions to help you create a backstory for your character (Reddit)](https://preview.tinyurl.com/oljh8rl)
-    
-- [34 Questions to Ask When You're Stumped on Your Backstory (Reddit)](https://preview.tinyurl.com/y777u35x)
-
-If you have access to the Xanathar's Guide To Everything, you can get a lot of inspiration from the "This Is Your Life" section on page 61-73.
-
-<br/><br/><br/><br/><br/><br/><br/>
 ### Choosing a background
 
 This part of character creation is probably best done **at** Session Zero together as a group, so you can bounce ideas off each other to make sure you're a well-rounded group in terms of skills and abilities. The following info is meant to provide a mechanical structure around the character concept you have in mind, but don't feel limited by the options presented. We can always customize as needed!
@@ -53,7 +36,7 @@ _See Appendix A for a list of backgrounds._
 
 #### Character and Gameplay Considerations
 
-The environment is more civilized and advanced than your normal campaign. Adventurers should take the fights off the street, corner opponents out of sight of the guard or avoid conflict via stealth or wit. Consider what characteristics make a good heist team:
+**A word of advice!** As you create your character concept, consider that this campaign takes place in a densely-populated urban metropolis, where openly wielding weapons or magic on the streets can quickly land you in a jail cell. Combat isn't always the solution, and not all combat has to be lethal. Adventurers should take the fights off the street, corner opponents out of sight of the guard or avoid conflict via stealth or wit. Consider what characteristics make a good heist team:
 
 - A get away driver
 
@@ -65,6 +48,19 @@ The environment is more civilized and advanced than your normal campaign. Advent
 
 - Stealth and deception
 
+### Additional Resources
+
+- [Random character generator for inspiration](https://trwolfe13.github.io/tiyl/)
+
+- [Which class should you play? (Flowchart)](https://preview.tinyurl.com/yd4wzzgq)
+
+- [5 Steps to Writing a Killer RPG Character Backstory (Geek & Sundry)](https://preview.tinyurl.com/ybkyqkzr)
+    
+- [20 questions to help you create a backstory for your character (Reddit)](https://preview.tinyurl.com/oljh8rl)
+    
+- [34 Questions to Ask When You're Stumped on Your Backstory (Reddit)](https://preview.tinyurl.com/y777u35x)
+
+If you have access to the Xanathar's Guide To Everything, you can get a lot of inspiration from the "This Is Your Life" section on page 61-73.
 \page
 
 A Brief Guide to Waterdeep
