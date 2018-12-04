@@ -148,6 +148,7 @@ Appendix A: Backgrounds
 =======================
 
 <div class='classTable wide'>
+
 ## Player's Handbook Backgrounds
   
 <br>
@@ -177,6 +178,7 @@ Appendix A: Backgrounds
 \page
 
 <div class='classTable wide'>
+
 ## Sword Coast Adventurer's Guide
 
 <br>
@@ -204,6 +206,3 @@ Appendix A: Backgrounds
 
 <div class='pageNumber'></div>
 <div class='footnote'>Appendix A: Backgrounds</div>
-
-
-
